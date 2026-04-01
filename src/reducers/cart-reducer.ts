@@ -1,6 +1,5 @@
 import { CartItem, Guitar } from "../types";
 import { db } from "../data/db"
-import { useEffect } from "react";
 
 // acciones del carrito
 export type CarActions =
